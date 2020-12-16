@@ -1,0 +1,13 @@
+C:\Users\rozze\source\repos\Лаб4(ООП)\Лаб4(ООП)\bin\Debug\netcoreapp3.1\Лаб4(ООП).exe
+C:\Users\rozze\source\repos\Лаб4(ООП)\Лаб4(ООП)\bin\Debug\netcoreapp3.1\Лаб4(ООП).deps.json
+C:\Users\rozze\source\repos\Лаб4(ООП)\Лаб4(ООП)\bin\Debug\netcoreapp3.1\Лаб4(ООП).runtimeconfig.json
+C:\Users\rozze\source\repos\Лаб4(ООП)\Лаб4(ООП)\bin\Debug\netcoreapp3.1\Лаб4(ООП).runtimeconfig.dev.json
+C:\Users\rozze\source\repos\Лаб4(ООП)\Лаб4(ООП)\bin\Debug\netcoreapp3.1\Лаб4(ООП).dll
+C:\Users\rozze\source\repos\Лаб4(ООП)\Лаб4(ООП)\bin\Debug\netcoreapp3.1\Лаб4(ООП).pdb
+C:\Users\rozze\source\repos\Лаб4(ООП)\Лаб4(ООП)\obj\Debug\netcoreapp3.1\Лаб4(ООП).csprojAssemblyReference.cache
+C:\Users\rozze\source\repos\Лаб4(ООП)\Лаб4(ООП)\obj\Debug\netcoreapp3.1\Лаб4(ООП).AssemblyInfoInputs.cache
+C:\Users\rozze\source\repos\Лаб4(ООП)\Лаб4(ООП)\obj\Debug\netcoreapp3.1\Лаб4(ООП).AssemblyInfo.cs
+C:\Users\rozze\source\repos\Лаб4(ООП)\Лаб4(ООП)\obj\Debug\netcoreapp3.1\Лаб4(ООП).csproj.CoreCompileInputs.cache
+C:\Users\rozze\source\repos\Лаб4(ООП)\Лаб4(ООП)\obj\Debug\netcoreapp3.1\Лаб4(ООП).dll
+C:\Users\rozze\source\repos\Лаб4(ООП)\Лаб4(ООП)\obj\Debug\netcoreapp3.1\Лаб4(ООП).pdb
+C:\Users\rozze\source\repos\Лаб4(ООП)\Лаб4(ООП)\obj\Debug\netcoreapp3.1\Лаб4(ООП).genruntimeconfig.cache
