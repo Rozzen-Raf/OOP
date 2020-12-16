@@ -1,0 +1,13 @@
+C:\Users\rozze\source\repos\Lr2(oop)\Lr2(oop)\bin\Debug\netcoreapp3.1\Lr2(oop).exe
+C:\Users\rozze\source\repos\Lr2(oop)\Lr2(oop)\bin\Debug\netcoreapp3.1\Lr2(oop).deps.json
+C:\Users\rozze\source\repos\Lr2(oop)\Lr2(oop)\bin\Debug\netcoreapp3.1\Lr2(oop).runtimeconfig.json
+C:\Users\rozze\source\repos\Lr2(oop)\Lr2(oop)\bin\Debug\netcoreapp3.1\Lr2(oop).runtimeconfig.dev.json
+C:\Users\rozze\source\repos\Lr2(oop)\Lr2(oop)\bin\Debug\netcoreapp3.1\Lr2(oop).dll
+C:\Users\rozze\source\repos\Lr2(oop)\Lr2(oop)\bin\Debug\netcoreapp3.1\Lr2(oop).pdb
+C:\Users\rozze\source\repos\Lr2(oop)\Lr2(oop)\obj\Debug\netcoreapp3.1\Lr2(oop).csprojAssemblyReference.cache
+C:\Users\rozze\source\repos\Lr2(oop)\Lr2(oop)\obj\Debug\netcoreapp3.1\Lr2(oop).AssemblyInfoInputs.cache
+C:\Users\rozze\source\repos\Lr2(oop)\Lr2(oop)\obj\Debug\netcoreapp3.1\Lr2(oop).AssemblyInfo.cs
+C:\Users\rozze\source\repos\Lr2(oop)\Lr2(oop)\obj\Debug\netcoreapp3.1\Lr2(oop).csproj.CoreCompileInputs.cache
+C:\Users\rozze\source\repos\Lr2(oop)\Lr2(oop)\obj\Debug\netcoreapp3.1\Lr2(oop).dll
+C:\Users\rozze\source\repos\Lr2(oop)\Lr2(oop)\obj\Debug\netcoreapp3.1\Lr2(oop).pdb
+C:\Users\rozze\source\repos\Lr2(oop)\Lr2(oop)\obj\Debug\netcoreapp3.1\Lr2(oop).genruntimeconfig.cache
